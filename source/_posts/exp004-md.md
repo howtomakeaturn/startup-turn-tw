@@ -1,0 +1,46 @@
+---
+title: 4. 獨立創業者可以跟這些對象&社群學習
+date: 2022-06-03 13:57:38
+tags:
+---
+一個人做產品、開公司，在以前聽起來像天方夜譚。但是時代在變，現在擁有的工具、平台，跟以前完全不一樣。
+
+多看看已經在這麼做的人，會對該怎麼做很有幫助。
+
+社群的首選絕對是 Indie Hackers。
+
+這是一個眾多獨立創業者交流、分享經驗的網站：
+
+https://www.indiehackers.com/
+
+其中企業家訪談的文章，通通看一遍，絕對會大開眼界：
+
+https://www.indiehackers.com/interviews/page/1
+
+Product Hunt 也有很多新產品上線的新聞，很多是由獨立開發者做的：
+
+https://www.producthunt.com/
+
+另外有很多對象可以學習，可以多看他們的文章、推特。
+
+比如說荷蘭人 Pieter Levels。看看他在文章中列出的個人專案列表，居然有個體能有如此生產力：
+
+https://levels.io/projects/
+
+還有 Jotform 的 Aytekin Tank，文章也很常給出不同以往的商業建議：
+
+https://medium.com/@aytekintank
+
+另外，不同於矽谷那套瘋狂募資、擴張的路線，強調工作生活平衡、穩重成長的企業家，這方面的意見也值得多看。
+
+比如說 37signals 的兩個創辦人：
+
+https://world.hey.com/jason
+
+https://world.hey.com/dhh
+
+除此之外，創投公司 Y Combinator 的 Paul Graham，已經像是武功秘笈一樣，把創業路上的各種狀況跟秘訣通通分享了。
+
+http://www.paulgraham.com/articles.html
+
+有這麼多像是「作弊秘籍」一樣的文章可以讀，學都學不完了，甚至不用出門跟人交流。對創業有興趣的人，應該把上述文章通通看過一遍。
