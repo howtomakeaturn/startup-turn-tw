@@ -3,7 +3,7 @@
 <meta name="theme-color" content="{{ theme.android_chrome_color }}">
 <meta name="generator" content="Hexo {{ hexo_version }}">
 
-<meta property="og:image" content="https://res.cloudinary.com/howtomakeaturn/image/upload/v1638692327/fxhgxwdypacqrquvo89s.jpg">
+<meta property="og:image" content="https://res.cloudinary.com/howtomakeaturn/image/upload/v1654831318/epx1tbxcp1rwgqy0ykjw.png">
 
 {%- if theme.favicon.apple_touch_icon %}
   <link rel="apple-touch-icon" sizes="180x180" href="{{ url_for(theme.favicon.apple_touch_icon) }}">
